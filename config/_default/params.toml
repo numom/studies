@@ -12,13 +12,13 @@ published = "Jan 02, 2006"
 lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
-emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+emoji = "🍰"
+subtitle = "Life happens wherever you are, whether you make it or not."
 
 [sidebar.avatar]
 enabled = true
-local = true
-src = "img/avatar.png"
+local = false
+src = "https://i.pinimg.com/564x/32/eb/8f/32eb8f76a39e36069f58191d64c93b3c.jpg"
 
 [article]
 math = false
